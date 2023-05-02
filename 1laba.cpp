@@ -434,5 +434,5 @@ namespace arbitary_precision {
 } // namespace
 
 int main(){
-
+    int a;
 }
