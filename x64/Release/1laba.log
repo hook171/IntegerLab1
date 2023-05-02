@@ -1,0 +1,4 @@
+﻿  1laba.cpp
+C:\lab\1laba\1laba.cpp(312,9): warning C4267: 'initializing': conversion from 'size_t' to 'int32_t', possible loss of data
+MSVCRT.lib(exe_main.obj) : error LNK2001: unresolved external symbol main
+C:\lab\1laba\x64\Release\1laba.exe : fatal error LNK1120: 1 unresolved externals

@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/lab/1laba/1laba.cpp
+1laba.h
+C:/lab/1laba/1laba.h
+sstream
+-
+cstring
+-
+stdexcept
+-
+
+C:/lab/1laba/1laba.h
+cinttypes
+-
+vector
+-
+string
+-
+iostream
+-
+

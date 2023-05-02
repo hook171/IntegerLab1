@@ -1,0 +1,4 @@
+﻿  1laba.cpp
+C:\lab\1laba\1laba.cpp(312,9): warning C4267: 'initializing': conversion from 'size_t' to 'int32_t', possible loss of data
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\lab\1laba\x64\Debug\1laba.exe : fatal error LNK1120: 1 unresolved externals
